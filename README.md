@@ -1,4 +1,4 @@
-# Go言語を勉強しながら記録
+# Go언어를 공부하면서 기록
 
 ## Table of contents
 
