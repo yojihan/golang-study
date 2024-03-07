@@ -115,7 +115,7 @@ func main() {
 - result
 
 ```
- Placed: Coffee order #1
+🗒️ Placed: Coffee order #1
 🗒️ Placed: Coffee order #2
 🗒️ Placed: Coffee order #3
 🗒️ Placed: Coffee order #4
